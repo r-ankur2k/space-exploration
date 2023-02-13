@@ -7,31 +7,28 @@ body {
 }
 
 #hero {
-    background-image: url("galaxy.webp");
+    background-image: url("images/galaxy.webp");
     background-size: cover;
     padding: 10px 0px 40px 0;
     margin-left: 0px;
     margin-right: 0px;
     
 }
-.del-img{
-    height: 50%;
-}
 .gallery{
     display: block ;
 }
 img{
-    width: 33% ;
-    height: 100%;
-    padding: 5px ;
-    border-radius: 10px ;
-    margin: 0px auto ;
+    height: 300px;
+    width: 300px;
+    padding: 0px;
+    border: 3px solid;
     
 }
 
 #main-logo {
-    width: 100px;
-    height: 10px ;
+    width: 150px;
+    height: 30px ;
+    border: none;
 }
 
 #title {
